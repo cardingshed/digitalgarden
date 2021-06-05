@@ -14,7 +14,7 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   description: "Life can have an unclear ruleset - chess is much simpler!  \n Marcel Duchamp and John Cage \n are playing in the image. \n This is a set of personal chess notes, a mix of repertoire and technique, \n arranged in an interactive, narrative structure to interest my memory."
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   text_link_label:
   text_link_url: /index.xml
   title: \"A strange game. The only winning move is not to play.  How about a nice game of chess?\"
