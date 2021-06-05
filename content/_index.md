@@ -8,7 +8,7 @@ images:
 - img/self.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: "test this"
+subtitle: ""
 text_align_left: false
 title: Welcome
 type: home
