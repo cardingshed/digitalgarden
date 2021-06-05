@@ -14,7 +14,7 @@ show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
-  description: "When life seems to have an unclear ruleset like the quote above, take refuge in chess!  \n Marcel Duchamp and John Cage \n are playing in the image. \n This is a set of personal chess notes \n arranged in a narrative structure to interest my memory."
+  description: "Life can have an unclear ruleset - chess is much simpler!  \n Marcel Duchamp and John Cage \n are playing in the image. \n This is a set of personal chess notes \n arranged in a narrative structure to interest my memory."
   show_sidebar_adunit: true
   text_link_label:
   text_link_url: /index.xml

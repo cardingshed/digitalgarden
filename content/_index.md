@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi!  I'm Richard, you've stumbled on my digital garden. This is a personal collection of projects, many of which are in development and might take time to bloom...   
+description: Hi I'm richard - you've stumbled on my digital garden. This is a personal set of projects, some aren't ready to bloom yet 🌸 May all beings be at peace, may all beings be at peace, may **all** beings be at peace!    
 image_left: true
 images:
-- img/revoir.jpg
+- img/self.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: ""
+subtitle: "test this"
 text_align_left: false
 title: Welcome
 type: home
