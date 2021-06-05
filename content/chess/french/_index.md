@@ -1,5 +1,4 @@
 ---
-author: richard
 cascade:
   categories:
   - black
@@ -27,7 +26,7 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: title french 1
+  title: the french closed, not the french open 
 title: title french 2
 ---
 
