@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "digital garden"
 author = "richard johnson"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -28,9 +28,9 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = ""
+  orgLocal = ""
+  description = ""
   favicon = "/img/favicon.ico"
   logo = "/img/home.png"
   mainSections = ["chess", "project", "talk"]
@@ -70,7 +70,7 @@ enableEmoji = true
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    use_utterances = true
+    use_utterances = false
     repo_name = "apreshill/apero"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
@@ -84,31 +84,31 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://github.com/tickrich"
+  #[[params.social]]
+  #    icon      = "facebook-square" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+  #[[params.social]]
+  #    icon      = "instagram" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/chess/index.xml"
+      url       = "https://twitter.com/tickrich"
+  #[[params.social]]
+  #    icon      = "impactstory" # icon name without the 'fa-'
+  #    icon_pack = "ai"
+  #    url       = "https://impactstory.org/u/0000-0002-8082-1890"
+  #[[params.social]]
+  #    icon      = "orcid" # icon name without the 'fa-'
+  #    icon_pack = "ai"
+  #    url       = "http://orcid.org/0000-0002-8082-1890"
+  #[[params.social]]
+  #    icon      = "rss" # icon name without the 'fa-'
+  #    icon_pack = "fas"
+  #    url       = "/chess/index.xml"
 
 [taxonomies]
   category = "categories"
