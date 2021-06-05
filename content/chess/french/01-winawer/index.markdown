@@ -1,13 +1,15 @@
 ---
 title: "winawer"
 weight: 1
-subtitle: "Glorious in battle but may not end well"
+subtitle: ""
 excerpt: "Fischer - I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
 draft: false
 ---
 {{< figure src="/img/jeanne.png">}}
 
-A glorious battle but it may not end well.  The rubenstein variation offers fewer wins and fewer losses.  Probably the longest lines in this whole french complex.
+A glorious battle but it may not end well.  Fischer - "I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
+The [rubenstein]({{< ref "chess/05-rubenstein/index.markdown" >}}) variation offers fewer wins and fewer losses.  
+Move-by-move nature of the winawer unfortunately leads to the longest lines in this whole french complex.
 
 ## so many crazy gambits
 
