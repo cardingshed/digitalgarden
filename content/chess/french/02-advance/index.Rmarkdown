@@ -6,7 +6,7 @@ excerpt: "this is the advanced variation"
 date: 2021-01-03
 draft: false
 ---
-
+it text here ok?
 {{< here >}}
 
 
