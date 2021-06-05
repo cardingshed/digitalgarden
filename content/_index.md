@@ -2,7 +2,11 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi I'm Richard - you've stumbled on my digital garden. This is a personal set of projects, some aren't ready to bloom yet 🌸 May all beings be at peace, may all beings be at peace, may **all** beings be at peace!    
+description: |
+Hi I'm Richard - you've stumbled on my digital garden. This is a personal set of projects, some aren't ready to bloom yet 🌸 
+May all beings be at peace, 
+may all beings be at peace, 
+may **all** beings be at peace!    
 image_left: true
 images:
 - img/self.jpeg
