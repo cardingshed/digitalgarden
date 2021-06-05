@@ -2,17 +2,22 @@
 title: "advance"
 weight: 2
 subtitle: ""
-excerpt: "this is the advance variation"
-date: 2021-01-03
+excerpt: "the french advance - what could possibly go wrong?"
 draft: false
 ---
-it text here ok?
-{{< here >}}
+{{< figure src="/img/minard.png" title="minard" >}}
 
+
+Minard's map of Napoleon's advance is a wonderful early example of data visualization, and much more dynamic than the static structures of 1.e4 e6 2.d4 d5 3.e5...
+
+## tl;dr
+1) Mainly appeals to white players who enjoy strategically clear positions, often black plays c4 and the position is blocked. 
+2) Some barbarian white players gambit the d-pawn some dangerous varations to be move-by-move ready for.  
+3) Final approach plays against c5: Kupreichik's Be3 can be avoided by playing Qb6 before Nc6, Steinitz used to take dc5 but this seems rare.
 
 ## so many crazy gambits
 
-Milner-Barry gambit, Kupreichik gambit and so on all good clean fun
+Milner-Barry gambit, Nbd2 gambit and so on all good clean fun
 hope the links work?
 
 ## blocked positions with c4

@@ -5,8 +5,9 @@ subtitle: "Glorious in battle but may not end well"
 excerpt: "Fischer - I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
 draft: false
 ---
-"Fischer - I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
+{{< figure src="/img/jeanne.png">}}
 
+A glorious battle but it may not end well.  The rubenstein variation offers fewer wins and fewer losses.  Probably the longest lines in this whole french complex.
 
 ## so many crazy gambits
 

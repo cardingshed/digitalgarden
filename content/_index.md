@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: ""
 text_align_left: false
-title: Richard's Digital Garden
+title: Welcome
 type: home
 ---
 

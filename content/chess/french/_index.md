@@ -22,7 +22,7 @@ show_post_date: false
 show_post_thumbnail: false
 sidebar:
   description: |
-    sure I changed this
+    This is the narrative support for my black repertoire against 1.e4, offering the e6, d5 sister to the queen's gambit declined 
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
