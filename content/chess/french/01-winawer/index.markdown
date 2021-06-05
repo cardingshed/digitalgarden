@@ -1,13 +1,11 @@
 ---
-title: "advance"
-weight: 2
-subtitle: ""
-excerpt: "this is the advance variation"
-date: 2021-01-03
+title: "winawer"
+weight: 1
+subtitle: "Glorious in battle but may not end well"
+excerpt: "Fischer - I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
 draft: false
 ---
-it text here ok?
-{{< here >}}
+"Fischer - I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
 
 
 ## so many crazy gambits

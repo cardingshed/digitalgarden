@@ -1,8 +1,8 @@
 ---
-title: "tarrasch"
-weight: 3
+title: "rubenstein"
+weight: 5
 subtitle: ""
-excerpt: "this is the tarrasch variation"
+excerpt: "an option to avoid the winawer and tarrasch"
 draft: false
 ---
 this is a test miracle if it works tbh

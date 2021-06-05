@@ -1,8 +1,8 @@
 ---
-title: "tarrasch"
-weight: 3
-subtitle: ""
-excerpt: "this is the tarrasch variation"
+title: "exchange"
+weight: 4
+subtitle: "also winawer exchange"
+excerpt: "if it were me, I'd play c4"
 draft: false
 ---
 this is a test miracle if it works tbh
