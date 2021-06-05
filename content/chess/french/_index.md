@@ -1,29 +1,27 @@
 ---
-author: wtf
+author: richard
 cascade:
-  author: wtf2
   categories:
-  - Theme Features
-  - R
+  - black
+  - opening
   layout: single-series
   series: french
-  show_author_byline: true
-  show_post_date: true
+  show_author_byline: false
+  show_post_date: false
   sidebar:
     show_sidebar_adunit: false
     text_link_label: ""
     text_link_url: ""
     text_series_label: In this series
   tags:
-  - hugo-site
+  - this-tag
 description: |
-  A forking fun new feature for series.
+  description goes here.
 layout: list-sidebar
-show_author_byline: true
-show_post_date: true
+show_author_byline: false
+show_post_date: false
 show_post_thumbnail: false
 sidebar:
-  author: Alison Hill
   description: |
     sure I changed this
   show_sidebar_adunit: false
