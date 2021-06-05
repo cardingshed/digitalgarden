@@ -4,6 +4,7 @@ weight: 4
 subtitle: "also winawer exchange"
 excerpt: "if it were me, I'd play c4"
 draft: false
+tags: ['french','iqp']
 ---
 this is a test miracle if it works tbh
 

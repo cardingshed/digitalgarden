@@ -4,6 +4,7 @@ weight: 5
 subtitle: ""
 excerpt: "an option to avoid the winawer and tarrasch"
 draft: false
+tags: ['french','desert']
 ---
 this is a test miracle if it works tbh
 

@@ -5,7 +5,6 @@ cascade:
   show_comments: false
   show_post_date: false
   sidebar:
-    show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /chess/
 description: "chess.\n"
@@ -14,11 +13,11 @@ show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 sidebar:
-  description: "Life can have an unclear ruleset - chess is much simpler!  \n Marcel Duchamp and John Cage \n are playing in the image. \n This is a set of personal chess notes, a mix of repertoire and technique, are \n arranged in a narrative structure to interest my memory."
+  description: "Life can have an unclear ruleset - chess is much simpler!  \n Marcel Duchamp and John Cage \n are playing in the image. \n This is a set of personal chess notes, a mix of repertoire and technique, \n arranged in an interactive, narrative structure to interest my memory."
   show_sidebar_adunit: true
   text_link_label:
   text_link_url: /index.xml
-  title: A Strange game. The only winning move is not to play.  How about a nice game of chess?
+  title: \"A strange game. The only winning move is not to play.  How about a nice game of chess?\"
 thumbnail_left: true
 title: How about a nice game of chess?
 ---

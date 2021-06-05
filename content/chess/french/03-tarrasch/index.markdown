@@ -3,7 +3,7 @@ title: "tarrasch"
 weight: 3
 subtitle: ""
 excerpt: "this is the tarrasch variation"
-draft: false
+tags: ['french','iqp']
 ---
 this is a test miracle if it works tbh
 

@@ -4,6 +4,7 @@ weight: 2
 subtitle: ""
 excerpt: "the french advance - what could possibly go wrong?"
 draft: false
+tags: ['french']
 ---
 {{< figure src="/img/minard.png" title="minard" >}}
 

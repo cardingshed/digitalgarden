@@ -4,6 +4,7 @@ weight: 1
 subtitle: ""
 excerpt: "Fischer - I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside."
 draft: false
+tags: ['french']
 ---
 {{< figure src="/img/jeanne.png">}}
 
@@ -11,11 +12,10 @@ A glorious battle but it may not end well.  Fischer - "I may yet be forced to ad
 The rubenstein variation offers fewer wins and fewer losses.  
 Move-by-move nature of the winawer unfortunately leads to the longest lines in this whole french complex.
 
-## tl;dr
+## so many crazy gambits
 
-1) Choosing the winawer variation in the french is like choosing the Najdorf in the sicilian.  Why? Giri's explanation - "it's Bb4, patzers!"
-2) My preference is to avoid Nfd7 (typical in the classical) or Kf8 and careful defence
-3) Exchange transposition from 4.ed5 classified under exchange variation.
+Milner-Barry gambit, Kupreichik gambit and so on all good clean fun
+hope the links work?
 
 ## blocked positions with c4
 some crazy game with a Kd7 Qg8 Qh7 manoeuvre to escape the pawn chain 
