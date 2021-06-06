@@ -1,6 +1,6 @@
 ---
 title: "exchange"
-weight: 4
+weight: 2
 subtitle: "also winawer exchange"
 excerpt: "if it were me, I'd play c4"
 draft: false

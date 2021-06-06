@@ -1,10 +1,8 @@
 ---
 cascade:
   categories:
-  - black
-  - opening
   layout: single-series
-  series: french
+  series: simple
   show_author_byline: false
   show_post_date: false
   sidebar:
@@ -22,11 +20,11 @@ show_post_date: false
 show_post_thumbnail: false
 sidebar:
   description: |
-    This is the narrative support for a black repertoire against 1.e4, a closed opening, the French defence is a sister to the e6, d5 structures of the queen's gambit declined.
+    Simple reduced positions where the result is confidently *known*. Mentally, they're look-up tables to save processing time in more complicated positions.   
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: the french closed, not the french open 
+  title: a matter of technique 
 title: title french 2
 ---
 

@@ -1,10 +1,10 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
+action_label: leave the garden &rarr;
+action_link: https://www.richardjohnson.io/
 action_type: text
-description: 
-  Hi I'm Richard - you've stumbled on my digital garden. 
-  This is a personal set of projects, some aren't ready to bloom yet 🌸 
+description: |
+  Hi 👋 I'm Richard - you've stumbled on my digital garden. 
+  This is a relaxed, personal area of resources and projects, some aren't ready to bloom yet 🌸 
   
   May all beings be at peace,
   may all beings be at peace,
