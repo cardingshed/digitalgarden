@@ -2,15 +2,16 @@
 title: "bishop and knight"
 weight: 8
 subtitle: ""
-excerpt: "walk the walk and proving you can checkmate the engine"
+excerpt: "walk the walk and prove you can checkmate the engine"
 tags: ['simple']
 ---
-Coordinating minor pieces to checkmate the lone king can be tricky, especially under pressure. The super-GM Mamedov was able to [work it out at the board](https://www.youtube.com/watch?v=iY1jG04NOyc) but I'd recommend proving you can checkmate the engine first. 
+Coordinating minor pieces to checkmate the lone king can be tricky, especially under pressure. The super-GM Mamedov was able to [find a way at the board](https://www.youtube.com/watch?v=iY1jG04NOyc) but I'd rather prove to myself I can checkmate an engine first.
 
 ## talk the talk
 Mastery of either of these two techniques would suffice:
-+ the *box* method  
-+ the *W* method
++ the *box* method 
++ the *W* method 
+![W method](/img/wmethod.png)
 
 ## walk the walk
 Take it away, maestro:

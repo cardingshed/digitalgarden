@@ -10,8 +10,6 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: In this series
-  tags:
-  - this-tag
 description: |
   description goes here.
 layout: list-sidebar
@@ -20,7 +18,7 @@ show_post_date: false
 show_post_thumbnail: false
 sidebar:
   description: |
-    Simple reduced positions where the result is confidently *known*. Mentally, they're look-up tables to save processing time in more complicated positions.   
+    Simple reduced positions where the result is confidently *known*. Mentally, they're stored as look-up tables and save processing time in more complicated positions. I find it helpful to play them against an engine to test myself.   
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""

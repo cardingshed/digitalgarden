@@ -12,8 +12,6 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: In this series
-  tags:
-  - this-tag
 description: |
   description goes here.
 layout: list-sidebar
