@@ -20,7 +20,7 @@ show_post_date: false
 show_post_thumbnail: false
 sidebar:
   description: |
-    This is the narrative support for a black repertoire against 1.e4, a closed opening, the French defence is a sister to the e6, d5 structures of the queen's gambit declined.
+    This is the narrative support for a closed-opening black repertoire against 1.e4. The French defence is the chic Parisian sister of the queen's gambit declined, with the e6, d5 family structure.
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""

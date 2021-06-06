@@ -18,7 +18,7 @@ show_post_date: false
 show_post_thumbnail: false
 sidebar:
   description: |
-    Simple reduced positions where the result is confidently *known*. Mentally, they're stored as look-up tables and save processing time in more complicated positions. I find it helpful to play them against an engine to test myself.   
+    The soviet school was famed for flawless technical endgame play.   Adding a few simple positions and training them against an engine might improve mine.
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
