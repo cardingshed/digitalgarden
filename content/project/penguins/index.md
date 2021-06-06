@@ -26,7 +26,6 @@ links:
   url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 subtitle: ""
 tags:
-- hugo-site
 title: Palmer Penguins
 ---
 

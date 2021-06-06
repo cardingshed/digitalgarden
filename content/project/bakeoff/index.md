@@ -21,7 +21,6 @@ links:
   url: https://github.com/apreshill/bakeoff
 subtitle: An R Package
 tags:
-- hugo-site
 title: Bakeoff
 ---
 

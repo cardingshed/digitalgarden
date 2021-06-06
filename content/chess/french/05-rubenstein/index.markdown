@@ -2,7 +2,7 @@
 title: "rubenstein"
 weight: 5
 subtitle: ""
-excerpt: "an option to avoid the winawer and tarrasch"
+excerpt: "a dry option to avoid the winawer and tarrasch"
 draft: false
 tags: ['french','desert']
 ---

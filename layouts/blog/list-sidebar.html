@@ -13,9 +13,8 @@
 <aside class="page-sidebar" role="complementary">
   {{ partial "shared/sidebar-scaffold.html" . }}
 <section class="panel panel-default">
-    <div class="panel-heading">
-    <b>Tags</b>
-    <div style="float: right"><a href="{{ "/tags/" | relLangURL }}">- full list -</a></div>
+    <div class="panel-heading" style="padding: 5px 20px">
+    <b>tags:</b>
     </div>
 {{ if not (eq (len $.Site.Taxonomies.tags) 0) }}
     {{ $fontUnit := "rem" }}
