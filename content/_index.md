@@ -1,6 +1,6 @@
 ---
 action_label: leave the garden &rarr;
-action_link: https://www.richardjohnson.io/
+action_link: https://www.deeprich.net/
 action_type: text
 description: |
   Hi 👋 I'm Richard - you've stumbled on my digital garden. 
