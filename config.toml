@@ -84,7 +84,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/tickrich"
+      url       = "https://github.com/deeprich"
   #[[params.social]]
   #    icon      = "facebook-square" # icon name without the 'fa-'
   #    icon_pack = "fab"
@@ -152,7 +152,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "main site"
     title = "main site"
-    url = "www.deeprich.net"
+    url = "https://www.deeprich.net"
     weight = 1
   #[[menu.footer]]
   #  name = "Contact"
