@@ -150,9 +150,9 @@ enableEmoji = true
     
   # Configure footer  
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
+    name = "main site"
+    title = "main site"
+    url = "www.deeprich.net"
     weight = 1
   #[[menu.footer]]
   #  name = "Contact"
