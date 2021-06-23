@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = ""
+  orgName = "richard"
   orgLocal = ""
   description = ""
   favicon = "/img/favicon.ico"
@@ -154,16 +154,16 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+  #[[menu.footer]]
+  #  name = "Contact"
+  #  title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
+  #[[menu.footer]]
+  #  name = "Contributors"
+  #  title = "Contributors"
+  #  url = "/contributors/"
+  #  weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
