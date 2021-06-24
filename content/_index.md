@@ -1,7 +1,4 @@
 ---
-action_label: leave the garden &rarr;
-action_link: https://www.deeprich.net/
-action_type: text
 description: |
   Hi 👋 I'm Richard - you've stumbled on my digital garden. 
   This is a relaxed, personal area of resources and projects, some aren't ready to bloom yet 🌸 
