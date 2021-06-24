@@ -33,7 +33,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/favicon.ico"
   logo = "/img/home.png"
-  mainSections = ["chess", "project", "stack","language","wellness"]
+  mainSections = ["chess", "language", "stack","wellness","misc"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -123,24 +123,24 @@ enableEmoji = true
     url = "/chess/"
     weight = 1
   [[menu.header]]
-    name = "projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "language"
+    title = "languages"
+    url = "/language/"
     weight = 2
   [[menu.header]]
     name = "stack"
-    title = "Tech Stack"
+    title = "tech stack"
     url = "/stack/"
     weight = 3
   [[menu.header]]
     name = "wellness"
-    title = "Wellness"
+    title = "wellness"
     url = "/wellness/"
     weight = 4
   [[menu.header]]
-    name = "language"
-    title = "Language"
-    url = "/language/"
+    name = "misc"
+    title = "miscellaneous projects"
+    url = "/misc/"
     weight = 5
     
   # Configure footer  

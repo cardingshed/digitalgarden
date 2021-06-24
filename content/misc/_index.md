@@ -1,6 +1,7 @@
 ---
 author: The R Markdown Team @RStudio
 cascade:
+  type: project
   show_author_byline: true
   show_comments: false
   show_post_date: true
