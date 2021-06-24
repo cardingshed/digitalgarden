@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>How about a nice game of chess? on Hugo Apéro</title>
-    <link>/chess/</link>
-    <description>Recent content in How about a nice game of chess? on Hugo Apéro</description>
+    <title>How about a nice game of chess? on digital garden</title>
+    <link>https://www.deeprich.net/chess/</link>
+    <description>Recent content in How about a nice game of chess? on digital garden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/chess/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.deeprich.net/chess/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

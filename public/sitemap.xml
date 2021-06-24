@@ -2,124 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/day02/01-netlify/</loc>
+    <loc>https://www.deeprich.net/language/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day01/01-github/</loc>
+    <loc>https://www.deeprich.net/stack/day02/01-netlify/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/wellness/day02/01-netlify/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/language/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/prework/</loc>
+    <loc>https://www.deeprich.net/stack/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/chess/french/01-winawer/</loc>
+    <loc>https://www.deeprich.net/wellness/day01/01-github/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day01/</loc>
+    <loc>https://www.deeprich.net/language/prework/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/stack/prework/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/wellness/prework/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/french/05-rubenstein/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/french/01-winawer/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/language/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day01/02-postcards/</loc>
+    <loc>https://www.deeprich.net/stack/day01/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/wellness/day01/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/language/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day02/02-blogdown/</loc>
+    <loc>https://www.deeprich.net/stack/day01/02-postcards/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/wellness/day01/02-postcards/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/language/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/chess/french/02-advance/</loc>
+    <loc>https://www.deeprich.net/stack/day02/02-blogdown/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day02/</loc>
+    <loc>https://www.deeprich.net/wellness/day02/02-blogdown/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/french/04-exchange/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/language/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day01/03-distill/</loc>
+    <loc>https://www.deeprich.net/stack/day02/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/wellness/day02/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/language/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/day02/03-blogdown/</loc>
+    <loc>https://www.deeprich.net/stack/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/chess/french/03-tarrasch/</loc>
+    <loc>https://www.deeprich.net/wellness/day01/03-distill/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/chess/french/04-exchange/</loc>
+    <loc>https://www.deeprich.net/language/day02/03-blogdown/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/chess/french/05-rubenstein/</loc>
+    <loc>https://www.deeprich.net/stack/day02/03-blogdown/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/collection/</loc>
+    <loc>https://www.deeprich.net/wellness/day02/03-blogdown/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/french/03-tarrasch/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/french/02-advance/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/simple/01-bishopknight/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/language/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://www.deeprich.net/stack/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://www.deeprich.net/wellness/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <loc>https://www.deeprich.net/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/penguins/</loc>
+    <loc>https://www.deeprich.net/project/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>https://www.deeprich.net/categories/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://www.deeprich.net/categories/package/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/project/penguins/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/categories/r/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/categories/theme-features/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.deeprich.net/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>/form/</loc>
+    <loc>https://www.deeprich.net/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>/elements/</loc>
-    <lastmod>2019-02-18T12:27:33-06:00</lastmod>
+    <loc>https://www.deeprich.net/categories/black/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://www.deeprich.net/contributors/</loc>
   </url><url>
-    <loc>/categories/black/</loc>
+    <loc>https://www.deeprich.net/tags/desert/</loc>
   </url><url>
-    <loc>/contributors/</loc>
+    <loc>https://www.deeprich.net/tags/french/</loc>
   </url><url>
-    <loc>/series/french/</loc>
+    <loc>https://www.deeprich.net/series/french/</loc>
   </url><url>
-    <loc>/chess/</loc>
+    <loc>https://www.deeprich.net/chess/</loc>
   </url><url>
-    <loc>/license/</loc>
+    <loc>https://www.deeprich.net/tags/iqp/</loc>
   </url><url>
-    <loc>/categories/opening/</loc>
+    <loc>https://www.deeprich.net/license/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://www.deeprich.net/categories/opening/</loc>
   </url><url>
-    <loc>/tags/this-tag/</loc>
+    <loc>https://www.deeprich.net/series/</loc>
   </url><url>
-    <loc>/chess/french/</loc>
+    <loc>https://www.deeprich.net/tags/simple/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/series/simple/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/tags/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/french/</loc>
+  </url><url>
+    <loc>https://www.deeprich.net/chess/simple/</loc>
   </url>
 </urlset>

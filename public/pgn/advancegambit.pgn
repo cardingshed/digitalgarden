@@ -1,0 +1,321 @@
+﻿[Event "1st Open"]
+[Site "Bergamo ITA"]
+[Date "2002.07.26"]
+[Round "1"]
+[White "Niccoli, Paolo"]
+[Black "Naumkin, Igor"]
+[Result "0-1"]
+[ECO "C02"]
+[BlackElo "2436"]
+[Annotator "Neil McDonald"]
+[PlyCount "76"]
+[EventDate "2002.07.26"]
+[EventType "game"]
+[EventCountry "ITA"]
+[SourceTitle "French Advance"]
+[Source "ChessPublishing"]
+[SourceDate "2014.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 cxd4 7. cxd4 Qb6 8. O-O
+Nxd4 9. Nxd4 {Maybe White should investigate} (9. Ng5 {here.}) 9... Qxd4 10.
+Nc3 a6 $1 {I wish I'd known about this move when I was young. It would have
+saved a lot of aggravation that occurred regularly after} (10... Qxe5 11. Re1
+Qb8 12. Nxd5 {etc.}) 11. Qe2 Ne7 12. Kh1 Nc6 13. f4 Bc5 14. a3 {The idea is to
+rule out Nb4 and also take the b4 square away from the black queen.} Na5 $1 {
+In the analysis to Golod-Barsov on ChessPub I give} (14... Ba7 {here which is
+also pretty good though White gets some initiative. If Black can get away with
+the game move then he prevents White building up even a semblance of an attack.
+}) 15. Bd2 ({Instead} 15. b4 {has been played a couple of times, but the
+following line of play amounts to a refutation:} Qxc3 $1 ({Better than} 15...
+Ba7 16. Bb2) 16. Bd2 ({If} 16. Bb2 Qb3 17. bxc5 ({Similarly} 17. bxa5 Bb5)
+17... Bb5 {and White has nothing for the pawn.}) 16... Qd4 17. bxc5 ({A better
+chance was} 17. bxa5) 17... Nb3 18. Be3 Qc3 19. Rab1 d4 $1 {White was rated
+2360 but he is still taken apart- a very bad advertisement for the
+Milner-Barry.} 20. Bg1 Nxc5 21. Rfd1 Ba4 22. Rd2 Nxd3 23. Rxd3 Qc2 24. Qf1 Bb5
+25. Rxb5 axb5 26. Bxd4 O-O 27. h3 Rfd8 28. Rc3 Qa4 {0-1 Kristensen,L-Jorgensen,
+M/Esbjerg 1996.}) 15... Nb3 16. Rae1 Ba7 17. Rf3 Nxd2 18. Qxd2 g6 $1 {Ruling
+out any immediate f4-f5 breakthrough. Now White has absolutely nothing for his
+pawn: in fact the two bishops give Black a positional plus as well. White
+presses forwards on the kingside but it just leads to destruction.} 19. Ne2 Qb6
+20. Rc1 Rc8 21. Rxc8+ Bxc8 22. g4 Bd7 23. f5 gxf5 24. gxf5 Rg8 25. Rg3 {
+Or else it is mate on g1.} Rxg3 26. hxg3 exf5 {There goes pawn number two.
+Three more will vanish before White decides enough is enough.} 27. Qg5 Qg6 28.
+Qh4 h6 29. Nf4 Qb6 30. Qh2 Qe3 31. e6 Qe1+ 32. Kg2 Qf2+ 33. Kh3 Qxh2+ 34. Kxh2
+fxe6 35. Kh3 Bd4 36. Kh4 Bxb2 37. Kh5 Kf7 38. Kxh6 Bxa3 0-1
+
+[Event "ch"]
+[Site "Istanbul TUR"]
+[Date "2006.03.20"]
+[Round "10"]
+[White "Korkmaz, Necmettin"]
+[Black "Atalik, Suat"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2071"]
+[BlackElo "2618"]
+[Annotator "Neil McDonald"]
+[PlyCount "48"]
+[EventDate "2006.03.11"]
+[EventType "game"]
+[EventCountry "TUR"]
+[SourceTitle "French Advance"]
+[Source "ChessPublishing"]
+[SourceDate "2014.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 cxd4 7. cxd4 Qb6 8. O-O
+{The famous Milner-Barry Gambit.} Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 $1 {A great
+little move that has really taken the sting out of White's pawn sacrifice. Its
+main purpose is to prevent Nb5, while the a7 square might prove to be a useful
+haven for the black queen or bishop in some variations.} 11. Qe2 Rc8 $5 {
+Once again Atalik delays the development of his kingside. Usually Black
+hurries to put his knight on c6 with Ne7 and Nc6, but the Turkish GM has
+another route in mind for the horse.} 12. Kh1 {White breaks the pin on f2 so
+that he can defend e5 with f2-f4.} Bc5 {Here we see a reason for Rc8- it
+defends the bishop, so that 13.Be3 can be answered by 13...Qxe5 without
+dropping a piece.} 13. f4 {this lets the knight go to h6 without being met by
+Bxh6, breaking up Black's kingside. However, White was short of constructive
+alternatives.} Nh6 $1 {The knight heads for the hole on e3.} 14. Bd2 Nf5 15.
+Rad1 ({White is falling apart after} 15. Bxf5 exf5 16. Rad1 Qc4 $1 17. Qf3 d4 {
+etc.}) 15... Ne3 16. Bxe3 Qxe3 {Black has carried out his plan. He now has the
+two bishops as well as an extra, protected passed pawn in the centre.
+Nevertheless, he has to meet White's next move with care.} 17. Qg4 Bf8 $1 ({
+After} 17... g6 $2 18. Bxg6 $1 hxg6 19. Rf3 {the black queen is suddenly
+trapped!}) 18. Nxd5 $2 ({This attempt to blast open the e-file fails. Perhaps
+he should have tried his luck with} 18. Rf3 Qb6 19. f5 $1 {even though Black
+has} Qxb2) 18... exd5 19. e6 Bxe6 20. f5 h5 $1 {The white queen has no good
+square, as if 21.Qh4 Be7 etc.} ({Of course not} 20... Bd7 $2 21. Rfe1) 21. Qa4+
+Bd7 22. Qh4 Be7 23. f6 Bxf6 24. Qb4 Qe7 ({It's all over, for if} 24... Qe7 25.
+Rfe1 Be6 {etc.}) 0-1
+
+[Event "I Memorial Oliver Gonzalez"]
+[Site "Madrid ESP"]
+[Date "2010.10.10"]
+[Round "2"]
+[White "Perez Mitjans, Orelvis"]
+[Black "Merino Araguas, Jose Javier"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2445"]
+[BlackElo "1834"]
+[Annotator "John Watson"]
+[PlyCount "53"]
+[EventDate "2010.??.??"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[SourceTitle "French Advance"]
+[Source "ChessPublishing"]
+[SourceDate "2014.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.12.16"]
+[SourceQuality "1"]
+
+{A 2400+ player plays the Milner-Barry! (and gets lucky).} 1. e4 e6 2. d4 d5 3.
+e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 cxd4 7. cxd4 Qb6 8. Nc3 Nxd4 9. Nxd4 Qxd4 10.
+O-O a6 11. Qf3 $5 (11. Qe2 {is normal.}) 11... Ne7 $1 12. Rd1 Qxe5 $1 13. Bf4
+Qf6 14. Re1 (14. Qg3 Ng6 $1 15. Bg5 Qe5 16. f4 Qd6) 14... Bc6 $5 ({Or simply} 
+14... g5 15. Be5 Qxf3 16. gxf3 Rg8 17. Bxh7 Rg7 $1 18. Bd3 f5 19. Bxg7 Bxg7 {
+and Black is well on top.}) (14... h5 {with the idea ...g5 is another way to
+preserve the advantage.}) 15. Qg3 Ng6 16. Bg5 Qd4 17. Rad1 Qc5 18. Qh3 Ne7 $6 (
+18... d4 $1 19. Bxg6 hxg6 20. Qxh8 Qxg5 21. Ne4 Qd5 {clearly favours Black.})
+19. Qg4 Ng6 $2 {A blunder.} (19... h5 $1 20. Qh4 Qb6 {is still advantageous.})
+20. Bxg6 hxg6 21. Rxe6+ $1 fxe6 22. Qxe6+ Be7 23. Re1 Rf8 24. Qxg6+ Kd7 $2 (
+24... Rf7 25. Rxe7+ Qxe7 26. Bxe7 Kxe7 {and White is better but Black can
+fight on.}) 25. Rxe7+ Kc8 26. Qe6+ Kb8 27. Qe5+ 1-0
+
+[Event "op"]
+[Site "Dieren"]
+[Date "1998.??.??"]
+[Round "9"]
+[White "Golod, Vitali"]
+[Black "Barsov, Alexei"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2535"]
+[BlackElo "2465"]
+[Annotator "Neil McDonald"]
+[PlyCount "104"]
+[EventDate "1998.08.??"]
+[EventType "swiss"]
+[EventCountry "NED"]
+[SourceTitle "French Advance"]
+[Source "ChessPublishing"]
+[SourceDate "2014.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 {The natural square for
+the bishop, though after Black's reply White is more or less committed to
+sacrificing his d pawn. That is why many players prefer} (6. Be2) 6... cxd4 7.
+cxd4 Qb6 8. O-O {The famous Milner-Barry Gambit.} Nxd4 9. Nxd4 ({Other ideas
+include} 9. Nbd2 {which Joszef Nun has used to beat several GMs and}) (9. Ng5
+$5) 9... Qxd4 10. Nc3 a6 $1 {A far sighted move. Black rules out Nb5 and
+clears the a7 square for the dark squared bishop. Instead} (10... Qxe5 {
+is the move popularised by John Watson.}) 11. Qe2 Ne7 12. Kh1 {White prepares
+to defend e5 with f2-f4 before Black plays Ne7 and Nc6.} Nc6 13. f4 Bc5 {
+The alternative is} (13... Nb4 {immediately.}) 14. Bd2 ({Or} 14. a3 Ba7 15. Bd2
+g6 $1 ({Instead} 15... Qb6 16. b4 Qd8 17. Qh5 $1 Ne7 18. Rae1 g6 19. Qh6 {
+gave White some attacking chances in Stets-Kuzmin, Alushta 1999.}) 16. b4 b5 $1
+17. Bxb5 $6 {This is enterprising but Black can withstand the attack.} axb5 18.
+Nxb5 Qb6 19. Nd6+ Kf8 20. f5 exf5 21. Bh6+ Kg8 22. Bg5 Bb8 $1 23. Bf6 Nxe5 $1
+24. Bxe5 Bxd6 25. Bf6 h5 {and Black was winning in German-Rodriguez, Buenos
+Aires 1996.}) 14... Nb4 15. Bb1 Ba7 $1 {Black makes way for the queen to
+retreat to b6.} 16. a3 Nc6 17. Bd3 (17. b4 Qb6 ({Perhaps} 17... b5 $5 {as in
+the Rodriguez game of the last note.}) 18. Bd3 (18. Qh5 $5) 18... g6 19. Rae1
+h5 20. Nxd5 {Again an all out attack by White, but he eventually runs out of
+pieces:} exd5 21. e6 Bxe6 22. f5 gxf5 23. Bg5 Kd7 24. Rxf5 Rae8 25. Rxf7+ Kc8
+$1 26. Bf4 Bd7 $1 27. Bf5 Bxf5 28. Qxe8+ Rxe8 29. Rxe8+ Nd8 {and White
+resigned in Stets-Burlai, Sevastopol 2000.}) 17... g6 $1 {An important move
+which rules out f4-f5 except as a sacrifice and also prevents Qh5. It is
+necessary as the black queen is going to vacate d4 and so won't be able to
+answer Qh5? with Qxd3 or f4-f5 with Qxe5.} 18. Rac1 Qb6 19. b4 Nd4 $1 {Black
+finds a way to strengthen further his grip on the centre dark squares. On f5
+the knight will be ready to jump into e3.} 20. Qd1 Nf5 21. Na4 Qd8 22. Nc5 Bc6
+23. Nxa6 Ne3 24. Bxe3 Bxe3 25. Rc2 O-O {Now it's clear the opening has been a
+disaster for White. Black has a dominant dark squared bishop, a perfectly safe
+king and nasty tactical threats on the a file. The pressure soon restores the
+pawn advantage and despite White's stubborn resistance the end is inevitable.}
+26. Qa1 Ba4 27. Re2 Qb6 28. Nc5 Bxc5 29. bxc5 Qxc5 30. Rc1 Qe7 31. Rc3 Bc6 32.
+Qc1 d4 33. Rb3 Bd5 34. Rb4 Rfc8 35. Qg1 Rc3 36. Rxd4 Qxa3 37. Be4 Rc1 38. Re1
+Rxe1 39. Qxe1 Bxe4 40. Rxe4 Qd3 41. h3 Ra1 42. Qxa1 Qxe4 43. Qf1 h5 44. h4 b5
+45. Kh2 b4 46. Qf2 b3 47. Qd2 Kg7 48. Kg3 Qc2 49. Qd8 b2 50. Qf6+ Kg8 51. Qd8+
+Kh7 52. Qe7 Qf5 0-1
+
+[Event "Classic"]
+[Site "Queenstown NZL"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Smerdon, David"]
+[Black "Zhao, Zong Yuan"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2421"]
+[BlackElo "2461"]
+[Annotator "Neil McDonald"]
+[PlyCount "68"]
+[EventDate "2006.01.15"]
+[EventType "team-tourn"]
+[SourceTitle "French Advance"]
+[Source "ChessPublishing"]
+[SourceDate "2014.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 {There isn't too much theory on 9.Nbd2. Therefore analysis
+to this game is entirely my own, with the help of Fritz. So please don't take
+anything on trust, especially in the sharp lines given after 9... Bc5- watch
+out for mistakes!} 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 cxd4 7. cxd4 Qb6 8. O-O
+Nxd4 9. Nbd2 $5 {Certainly this is worth a try, as the mainline Milner-Barry
+with 9.Nxd4 etc. is looking grim for White.} Bc5 $1 {The crucial test of
+White's ninth move. Other continuations seem to grant White easy compensation
+for his pawn, for example} (9... Nc6 10. Nb3 Qc7 $6 {Better to wait to see if
+the queen is attacked with Be3 before playing this retreat.} 11. Bf4 Nge7 12.
+Bg3 g6 $6 13. Bf4 Bg7 14. Rc1 h6 15. Re1 a6 16. h4 $1 {and White had a bind on
+both sides of the board in Smerdon, D-Vaidya, C/Kochin IND 2004.}) (9... Nxf3+
+10. Nxf3 Rc8 11. Ng5 $1 Nh6 12. Nxh7 {The manoeuvre Ng5 and Nxh7 might seem
+somewhat odd, but it is a fundamental idea for White in this line. Besides
+grabbing a pawn back, it also stops Black castling kingside and introduces the
+idea of Bxh6, winning the f6 square for the white knight.} Bb5 13. Bxh6 gxh6
+14. Bxb5+ Qxb5 15. Rc1 Bc5 16. Nf6+ Ke7 17. Qf3 Rc6 {and White had attacking
+chances which he increased by opening lines with} 18. b4 Bb6 19. Ne4 $1 Rh7 ({
+If} 19... dxe4 20. Qf6+ {wins the rook}) 20. Nd6 Qxb4 21. Nxb7 Rxc1 22. Rxc1
+Qb2 23. Re1 {and White went onto win in Smerdon, D-West, G/Melbourne AUS 2004.}
+) 10. b4 $5 {If this natural looking attempt to open lines fails, then I
+believe White must be in trouble. Nothing else is as forceful e.g.} (10. Nxd4
+Bxd4 11. Nf3 Ne7 {and Black looks secure.}) 10... Nxf3+ 11. Nxf3 Qxb4 12. Ng5 (
+{Perhaps White should investigate} 12. Rb1 Qa4 ({or} 12... Qa5 13. Ng5) 13. Bc2
+Qxa2 14. Rxb7) 12... Qa4 13. Qh5 $2 {An obvious attacking move but in what
+follows the queen becomes vulnerable to exchange by Nh6 and Qg4!- the last
+thing White wants to happen. No better is} (13. Qf3 $2 Nh6 14. Nxh7 Qg4 {
+and there go the queens again- but interesting was}) (13. Bc2 $5 Qc6 $5 {
+Getting the queen back to safety seems the best approach, though in fact she
+might end up a target here for a future Rc1.} (13... Qd4 14. Qf3 $1 Nh6 {
+and now} ({not} 14... Qxa1 $2 15. Qxf7+ Kd8 16. Qxg7 {when h8 goes with a
+rampant attack for White.}) 15. Bf4 $1 {gives White enough play for the pawn,
+while fantasists might like to try out} (15. Be3 $6 Qxe5 16. Bxc5 Qxg5 {
+when the dark squares around the black king are loose, but it will take
+something major for White to break through the light square barrier.})) (13...
+Qh4 14. g3 $1 Qd4 15. Qf3 Nh6 {and we have the 13... Qd4 line but with g2-g3
+added. The same comments as above apply to} 16. Bf4 $5 {and} (16. Be3 $6 Qxe5
+17. Bxc5 Qxg5)) 14. Nxh7 ({White runs into trouble after} 14. Qh5 Nh6 15. Nxh7
+Bd4 $1 16. Bxh6 Qxc2 {but you might want to delve deeper into other moves
+after 14.Qh5.}) 14... O-O-O ({or} 14... Ne7 15. Bg5 $5) 15. Bg5 {intending Rc1
+etc. and despite the weird knight on h7 White has definite play for the pawn.})
+13... Nh6 14. Nxh7 Rxh7 $5 {This leads to a highly promising endgame, but the
+greedy} (14... Qd4 $1 {attacking both d3 and a1 looks very strong e.g.} 15. Qe2
+({or} 15. Bxh6 Qxd3 {and Black wins a piece on the h-file.}) 15... Nf5 $1) 15.
+Bxh7 Qg4 $1 {Pouring cold water on White's attacking aspirations.} 16. Qh3 ({Or
+} 16. Qxg4 Nxg4 {when besides the threat of taking on e5 or blocking in the
+bishop with 17...g6, White has to reckon with 17...Bb5. Still, perhaps} 17. Bd3
+Nxe5 18. Be2 {would have been the best way to fight on, though Black
+undoubtedly has the better of it due to his protected passed pawn.}) 16... Qxh3
+17. gxh3 Bc6 {Nominally speaking, White is ahead on material, but his pawn
+structure is riddled with holes and his rooks have no open lines: the black
+pawns and pieces form a barrier that stretches across the whole board.} 18. Rb1
+Kd7 19. Rb3 Rh8 20. Bd3 Nf5 21. Bxf5 exf5 22. Kg2 Ke6 {An excellent post for
+the black king.} 23. Rg3 d4+ 24. Kg1 g6 25. Ba3 Bb6 $1 {Declining the exchange
+of bishops ensures that the white rooks are held at bay.} 26. Bd6 Rh4 {Now
+Black prepares the decisive advance of the passed pawn.} 27. Rd1 Re4 28. Kf1
+Bb5+ 29. Kg2 Be2 30. Rd2 Ba5 31. Rxe2 Rxe2 32. Bc5 Bc3 33. a3 a5 34. Kf3 Re1
+0-1
+
+[Event "100th ch-GBR 2013"]
+[Site "Torquay ENG"]
+[Date "2013.08.08"]
+[Round "10.9"]
+[White "Williams, Simon"]
+[Black "Harvey, Marcus Ross"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2481"]
+[BlackElo "2202"]
+[Annotator "John Watson"]
+[PlyCount "108"]
+[EventDate "2013.07.29"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "French Advance"]
+[Source "ChessPublishing"]
+[SourceDate "2014.12.16"]
+[SourceVersion "1"]
+[SourceVersionDate "2014.12.16"]
+[SourceQuality "1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O
+Nxd4 9. Nbd2 {The most challenging of the irregular 9th moves. Normal is} (9.
+Nxd4) 9... a6 {Not a bad alternative.} ({I recommend} 9... Bc5 $1 {in PTF4.
+It's not the only move, but has done well, e.g.,} 10. b4 (10. a3 a5 11. Nxd4
+Bxd4 12. Nf3) (10. Rb1 Bb5 $1) (10. Nxd4 Bxd4 11. Nf3 Ne7 12. Nxd4 (12. Bxh7
+Bb5 $1 $15) 12... Qxd4 13. Re1 Nc6 $15 {Smerdon-V Akopian, Khanty-Mansiysk 2010
+}) 10... Nxf3+ 11. Nxf3 Qxb4 {was seen in Smerdon-Zhao Zong Yuan in the
+Archives Black apparently has some advantage.} 12. Rb1 Qa4 {was Pap-Gleizerov,
+Predeal 2006.}) 10. Nxd4 Qxd4 11. Nf3 Qb6 12. b4 {Logical, gaining space and
+preventing ...Bc5.} (12. a3 Rc8 13. b4 Ne7 14. Be3 Qd8 15. Qe2 Nc6 {looks
+solid White has some compensation, but likely insufficient.}) 12... Ne7 13. Be3
+Qd8 14. Nd4 $6 {This allows Black to simplify favourably. Perhaps} (14. Qe2 {
+was a better try.}) 14... Nc6 15. f4 $5 (15. Nxc6 Bxc6 16. f4 g6 $17) 15... g6
+(15... Nxd4 $1 16. Bxd4 Bxb4 17. f5 exf5 $17) 16. a3 Nxd4 17. Bxd4 Bb5 $5 {
+This gives White approximate equality. Better is} (17... Rc8 {or}) (17... a5 {
+with the idea} 18. b5 Rc8) 18. Bxb5+ axb5 19. Qd3 Qd7 20. g4 $5 {Threatening
+f5, although it's loosening.} (20. Rac1 Be7 21. Bb6 Bd8 $1 $15) 20... Rc8 21.
+f5 gxf5 22. gxf5 Rc4 $1 23. Kh1 (23. fxe6 fxe6 {helps Black to play ...Qg7 at
+some point}) 23... Rg8 24. Rg1 Rxg1+ 25. Rxg1 exf5 26. Rg8 b6 {Versus Bc5} 27.
+Kg2 $6 (27. Bxb6 Rg4 28. Rxg4 fxg4 $15) 27... Qe6 28. Kf3 $2 {This should lose.
+White can't be happy, however, after} (28. Rg5 f6 $1 {or}) (28. Qe3 f6 29. Rh8
+fxe5 30. Qxe5 Qxe5 31. Bxe5 Kf7 $17) 28... Ke7 $2 (28... f6 $1 {is winning,
+since the rook on g8 is attacked, but ...fxe5 is deadly.}) 29. Qe3 f4 30. Qxf4
+Qh3+ 31. Kf2 Ke8 32. Ke1 $2 Rc2 $2 (32... Qxa3 $1 $19 {with the idea...Qc1+})
+33. Qg5 Qc8 $2 (33... Rc8 $1 34. Bxb6 Kd7 $15) 34. Bc5 $1 {The saving idea.}
+Rxc5 {Forced} (34... bxc5 $4 35. Qh6) 35. bxc5 Qxc5 36. Qf5 b4 37. axb4 Qxb4+
+38. Kf1 Qc4+ 39. Kg2 b5 40. Kh3 (40. Rg3) 40... Qc6 41. Kg2 b4 $11 42. Rg3 d4+
+$5 43. Kf2 Bh6 44. Qd3 Be3+ 45. Ke2 h6 46. Rf3 Qd5 47. Qa6 b3 48. h4 b2 49.
+Qa4+ Kf8 50. Qb4+ Kg7 51. Qxb2 Qxe5 52. Kd3 f5 53. Qb7+ Kg6 54. Rf1 Qe4+
+1/2-1/2
+

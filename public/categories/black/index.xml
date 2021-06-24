@@ -1,68 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>black on Hugo Apéro</title>
-    <link>/categories/black/</link>
-    <description>Recent content in black on Hugo Apéro</description>
+    <title>black on digital garden</title>
+    <link>https://www.deeprich.net/categories/black/</link>
+    <description>Recent content in black on digital garden</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/categories/black/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.deeprich.net/categories/black/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>winawer</title>
-      <link>/chess/french/01-winawer/</link>
+      <title>rubenstein</title>
+      <link>https://www.deeprich.net/chess/french/05-rubenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/chess/french/01-winawer/</guid>
+      <guid>https://www.deeprich.net/chess/french/05-rubenstein/</guid>
+      <description>this is a test miracle if it works tbh
+[Event &#34;Lasker mem op&#34;] [Site &#34;Barlinek&#34;] [Date &#34;2001.07.23&#34;] [Round &#34;7&#34;] [White &#34;Babaev, Rashad&#34;] [Black &#34;Schmidt, Wlodzimierz&#34;] [Result &#34;0-1&#34;] [ECO &#34;C08&#34;] [WhiteElo &#34;2361&#34;] [BlackElo &#34;2438&#34;] [Annotator &#34;Psakhis&#34;] [PlyCount &#34;50&#34;] [EventDate &#34;2001.07.19&#34;] [EventType &#34;swiss&#34;] [EventRounds &#34;10&#34;] [EventCountry &#34;POL&#34;] [SourceTitle &#34;CBM 85&#34;] [Source &#34;ChessBase&#34;] [SourceDate &#34;2001.11.13&#34;] [SourceVersion &#34;1&#34;] [SourceVersionDate &#34;2001.11.13&#34;] [SourceQuality &#34;1&#34;]  e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5.</description>
+    </item>
+    
+    <item>
+      <title>winawer</title>
+      <link>https://www.deeprich.net/chess/french/01-winawer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.deeprich.net/chess/french/01-winawer/</guid>
       <description>A glorious battle but it may not end well. Fischer - &amp;ldquo;I may yet be forced to admit that the winawer is sound, but I doubt it. The defence is anti-positional and weakens the kingside.&amp;rdquo; The rubenstein variation offers fewer wins and fewer losses.
 Move-by-move nature of the winawer unfortunately leads to the longest lines in this whole french complex.
 so many crazy gambits     Milner-Barry gambit, Kupreichik gambit and so on all good clean fun hope the links work?</description>
     </item>
     
     <item>
-      <title>advance</title>
-      <link>/chess/french/02-advance/</link>
+      <title>exchange</title>
+      <link>https://www.deeprich.net/chess/french/04-exchange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/chess/french/02-advance/</guid>
-      <description>minard   Minard&amp;rsquo;s map of Napoleon&amp;rsquo;s advance is a wonderful early example of data visualization, and much more dynamic than the static structures of 1.e4 e6 2.d4 d5 3.e5&amp;hellip;
-tl;dr      Mainly appeals to white players who enjoy strategically clear positions, often black plays c4 and the position is blocked. Some barbarian white players gambit the d-pawn some dangerous varations to be move-by-move ready for.</description>
+      <guid>https://www.deeprich.net/chess/french/04-exchange/</guid>
+      <description>this is a test miracle if it works tbh
+[Event &#34;Lasker mem op&#34;] [Site &#34;Barlinek&#34;] [Date &#34;2001.07.23&#34;] [Round &#34;7&#34;] [White &#34;Babaev, Rashad&#34;] [Black &#34;Schmidt, Wlodzimierz&#34;] [Result &#34;0-1&#34;] [ECO &#34;C08&#34;] [WhiteElo &#34;2361&#34;] [BlackElo &#34;2438&#34;] [Annotator &#34;Psakhis&#34;] [PlyCount &#34;50&#34;] [EventDate &#34;2001.07.19&#34;] [EventType &#34;swiss&#34;] [EventRounds &#34;10&#34;] [EventCountry &#34;POL&#34;] [SourceTitle &#34;CBM 85&#34;] [Source &#34;ChessBase&#34;] [SourceDate &#34;2001.11.13&#34;] [SourceVersion &#34;1&#34;] [SourceVersionDate &#34;2001.11.13&#34;] [SourceQuality &#34;1&#34;]  e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5.</description>
     </item>
     
     <item>
       <title>tarrasch</title>
-      <link>/chess/french/03-tarrasch/</link>
+      <link>https://www.deeprich.net/chess/french/03-tarrasch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/chess/french/03-tarrasch/</guid>
-      <description>this is a test miracle if it works tbh
-[Event &#34;Lasker mem op&#34;] [Site &#34;Barlinek&#34;] [Date &#34;2001.07.23&#34;] [Round &#34;7&#34;] [White &#34;Babaev, Rashad&#34;] [Black &#34;Schmidt, Wlodzimierz&#34;] [Result &#34;0-1&#34;] [ECO &#34;C08&#34;] [WhiteElo &#34;2361&#34;] [BlackElo &#34;2438&#34;] [Annotator &#34;Psakhis&#34;] [PlyCount &#34;50&#34;] [EventDate &#34;2001.07.19&#34;] [EventType &#34;swiss&#34;] [EventRounds &#34;10&#34;] [EventCountry &#34;POL&#34;] [SourceTitle &#34;CBM 85&#34;] [Source &#34;ChessBase&#34;] [SourceDate &#34;2001.11.13&#34;] [SourceVersion &#34;1&#34;] [SourceVersionDate &#34;2001.11.13&#34;] [SourceQuality &#34;1&#34;]  e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5.</description>
+      <guid>https://www.deeprich.net/chess/french/03-tarrasch/</guid>
+      <description>Taking with the e-pawn would enter IQP territory, but white has Bb5+ ideas. The manoeuvre Qd5-d6 reminds me of Tiviakov, adding a Scandinavian flavour to the French defence.
+Resources for this line:
+ In-depth analysis of a variation in Luther&amp;rsquo;s Chess Reformation Giri&amp;rsquo;s chessable French lifetime repertoire Arkell&amp;rsquo;s endings by Keith Arkell  tl;dr      Common ending where white has 3+3 and black has 2+4, is playable for a black win.</description>
     </item>
     
     <item>
-      <title>exchange</title>
-      <link>/chess/french/04-exchange/</link>
+      <title>advance</title>
+      <link>https://www.deeprich.net/chess/french/02-advance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/chess/french/04-exchange/</guid>
-      <description>this is a test miracle if it works tbh
-[Event &#34;Lasker mem op&#34;] [Site &#34;Barlinek&#34;] [Date &#34;2001.07.23&#34;] [Round &#34;7&#34;] [White &#34;Babaev, Rashad&#34;] [Black &#34;Schmidt, Wlodzimierz&#34;] [Result &#34;0-1&#34;] [ECO &#34;C08&#34;] [WhiteElo &#34;2361&#34;] [BlackElo &#34;2438&#34;] [Annotator &#34;Psakhis&#34;] [PlyCount &#34;50&#34;] [EventDate &#34;2001.07.19&#34;] [EventType &#34;swiss&#34;] [EventRounds &#34;10&#34;] [EventCountry &#34;POL&#34;] [SourceTitle &#34;CBM 85&#34;] [Source &#34;ChessBase&#34;] [SourceDate &#34;2001.11.13&#34;] [SourceVersion &#34;1&#34;] [SourceVersionDate &#34;2001.11.13&#34;] [SourceQuality &#34;1&#34;]  e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5.</description>
-    </item>
-    
-    <item>
-      <title>rubenstein</title>
-      <link>/chess/french/05-rubenstein/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/chess/french/05-rubenstein/</guid>
-      <description>this is a test miracle if it works tbh
-[Event &#34;Lasker mem op&#34;] [Site &#34;Barlinek&#34;] [Date &#34;2001.07.23&#34;] [Round &#34;7&#34;] [White &#34;Babaev, Rashad&#34;] [Black &#34;Schmidt, Wlodzimierz&#34;] [Result &#34;0-1&#34;] [ECO &#34;C08&#34;] [WhiteElo &#34;2361&#34;] [BlackElo &#34;2438&#34;] [Annotator &#34;Psakhis&#34;] [PlyCount &#34;50&#34;] [EventDate &#34;2001.07.19&#34;] [EventType &#34;swiss&#34;] [EventRounds &#34;10&#34;] [EventCountry &#34;POL&#34;] [SourceTitle &#34;CBM 85&#34;] [Source &#34;ChessBase&#34;] [SourceDate &#34;2001.11.13&#34;] [SourceVersion &#34;1&#34;] [SourceVersionDate &#34;2001.11.13&#34;] [SourceQuality &#34;1&#34;]  e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5.</description>
+      <guid>https://www.deeprich.net/chess/french/02-advance/</guid>
+      <description>Minard&amp;rsquo;s map of Napoleon&amp;rsquo;s advance is a wonderful early example of data visualization, and much more dynamic than the static structures of 1.e4 e6 2.d4 d5 3.e5&amp;hellip;
+tl;dr      Mainly appeals to white players who enjoy strategically clear positions, often black plays c4 and the position is blocked. Some barbarian white players gambit the d-pawn there are a couple of dangerous variations to be aware of.</description>
     </item>
     
     <item>
       <title>title french 2</title>
-      <link>/chess/french/</link>
+      <link>https://www.deeprich.net/chess/french/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/chess/french/</guid>
+      <guid>https://www.deeprich.net/chess/french/</guid>
       <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
     </item>
     
