@@ -6,7 +6,7 @@ description: |
   Hi 👋 I'm Richard - you've stumbled on my digital garden. 
   This is a relaxed, personal area of resources and projects, some aren't ready to bloom yet 🌸 
   
-  May **all** beings be at peace!  
+  May **all** beings be happy!  
 image_left: true
 images:
 - img/self.jpeg
