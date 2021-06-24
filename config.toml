@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "richard"
+  orgName = "richard johnson"
   orgLocal = ""
   description = ""
   favicon = "/img/favicon.ico"
