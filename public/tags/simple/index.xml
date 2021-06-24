@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>simple on digital garden</title>
+    <link>https://www.deeprich.net/tags/simple/</link>
+    <description>Recent content in simple on digital garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.deeprich.net/tags/simple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bishop and knight</title>
+      <link>https://www.deeprich.net/chess/simple/01-bishopknight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.deeprich.net/chess/simple/01-bishopknight/</guid>
+      <description>Coordinating minor pieces to checkmate the lone king can be tricky, especially under pressure. The super-GM Mamedov was able to find a way at the board but I&amp;rsquo;d rather prove to myself I can checkmate an engine first.
+walk the walk     Take it away, maestro:
+ talk the talk     To sound wise 🦉 the names of the common methods are:
+ Delétang method - here&amp;rsquo;s an overview on wikipedia the W method - a faster technique, see the path of the knight below  </description>
+    </item>
+    
+  </channel>
+</rss>
