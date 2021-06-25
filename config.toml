@@ -1,4 +1,4 @@
-baseURL = "https://www.deeprich.net"
+baseURL = "https://garden.deeprich.net"
 theme = "hugo-apero"
 languageCode = "en"
 title = "digital garden"
