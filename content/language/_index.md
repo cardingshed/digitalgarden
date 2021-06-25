@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all
     text_link_url: /language/
-description: Resources and useful links with a language theme.
+description: Carbon not silicon languages here.
 layout: list-grid
 show_author_byline: true
 show_post_date: false
@@ -19,7 +19,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: Language Sidebar
-title: Resources with a language theme
+title: Human languages
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
