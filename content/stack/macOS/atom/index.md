@@ -1,13 +1,12 @@
 ---
-title: "shell"
+title: "atom"
 weight: 2
 subtitle: ""
-excerpt: "oh my zsh, iterm 2"
-date: 2021-01-01
+excerpt: "atom"
 ---
 
 
-## zsh
+## Pre-requisites
 
 First, make sure you have the latest version of the blogdown package installed from CRAN:
 
