@@ -22,9 +22,9 @@ killall SystemUIServer
 ```
 
 ## Configure terminal
-Install feature-rich terminal iterm2 from [here](https://iterm2.com)
+Install feature-rich terminal **iterm2** from [here](https://iterm2.com)
 
-zsh is now the default shell in macOS, pick up oh my zsh [here](https://ohmyz.sh)
+zsh is now the default shell in macOS, pick up **oh my zsh** [here](https://ohmyz.sh)
 
 
 
