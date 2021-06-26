@@ -6,7 +6,7 @@ description: |
   May **all** beings be happy!  
 image_left: true
 images:
-- img/gardenself.jpeg
+- img/gardenself.jpg
 show_action_link: true
 show_social_links: true
 subtitle: ""
