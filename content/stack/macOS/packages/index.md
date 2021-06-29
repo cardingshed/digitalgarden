@@ -1,7 +1,7 @@
 ---
 title: "applications"
 layout: single-series
-weight: 3
+weight: 2
 subtitle: ""
 excerpt: "general system workflow applications"
 draft: false

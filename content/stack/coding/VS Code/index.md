@@ -1,14 +1,14 @@
 ---
-title: "julia"
+title: "VS Code"
 weight: 2
 subtitle: ""
-excerpt: "Julia and the Juno IDE"
+excerpt: "Text editor, IDE"
 ---
-
+Microsoft has bought GitHub, and hence also the text editor Atom. VS Code is a similar free, open-source in-house Microsoft product, and as at 2021 development efforts (for example Julia) seem to be favoured here.  
 
 ## Pre-requisites
 
-First, make sure you have the latest version of the blogdown package installed from CRAN:
+VS Code can be downloaded from 
 
 ```
 install.packages("blogdoown")

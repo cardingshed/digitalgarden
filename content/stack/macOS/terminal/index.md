@@ -1,12 +1,11 @@
 ---
 title: "shell"
 weight: 3
-subtitle: "Configuring the command line interface"
+subtitle: ""
 excerpt: "oh my zsh, iterm 2"
-date: 2021-01-01
 ---
 
-## Initial System tweaks
+## initial system tweaks
 Change screenshot folder (default is to clutter the desktop)
 ```
 defaults write com.apple.screencapture location 
@@ -21,10 +20,13 @@ Restart processes after changes
 killall SystemUIServer
 ```
 
-## Configure terminal
+## configure terminal
 Install feature-rich terminal **iterm2** from [here](https://iterm2.com)
 
-zsh is now the default shell in macOS, improve by picking up **oh my zsh** [here](https://ohmyz.sh)
+zsh is now the default shell in macOS **oh my zsh** [website](https://ohmyz.sh) can be installed with
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
 ## homebrew
 Need this.  Details on the homebrew [website](https://brew.sh)
