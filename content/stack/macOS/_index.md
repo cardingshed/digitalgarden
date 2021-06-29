@@ -4,7 +4,7 @@ title: "macOS"
 layout: single-series # list, list-sidebar, single-series
 show_post_thumbnail: true
 weight: 3
-subtitle: "Essential tools, based on a macOS platform"
+subtitle: "System configuration for a macOS platform"
 description: |
   macOS tools
 excerpt: 
@@ -13,4 +13,4 @@ show_author_byline: false
 show_post_date: false
 ---
 
-Tools to customise the shell, package management, and my currently preferred text editor (atom).
+Tools to customise the shell, package management, and my currently preferred text editor (which will never be vi).

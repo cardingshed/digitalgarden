@@ -1,7 +1,7 @@
 ---
 title: "shell"
-weight: 2
-subtitle: ""
+weight: 3
+subtitle: "Configuring the command line interface"
 excerpt: "oh my zsh, iterm 2"
 date: 2021-01-01
 ---
@@ -24,7 +24,33 @@ killall SystemUIServer
 ## Configure terminal
 Install feature-rich terminal **iterm2** from [here](https://iterm2.com)
 
-zsh is now the default shell in macOS, pick up **oh my zsh** [here](https://ohmyz.sh)
+zsh is now the default shell in macOS, improve by picking up **oh my zsh** [here](https://ohmyz.sh)
 
+## homebrew
+Need this.  Details on the homebrew [website](https://brew.sh)
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+Keep up to date with
+```
+brew update && brew upgrade
+```
+
+## git
+Can use homebrew to install latest version of **git**. Apple's version of **git** is included in **command line tools** (download when prompted, don't need the full 15GB of XCode). 
+```
+brew install git
+git --version
+```
+If the version still mentions Apple, then run
+```
+export PATH=/usr/local/bin:$PATH
+git --version
+```
+Can then configure with
+```
+git config --global user.name <<my github username>>
+git config --global user.email <<my email>>
+```
 
 

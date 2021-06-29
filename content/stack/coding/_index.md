@@ -13,4 +13,4 @@ show_author_byline: false
 show_post_date: false
 ---
 
-Remote sources, my preferred set-up, and customizations for coding languages and IDEs.
+Remote sources, my preferred set-up, and customizations for coding languages and IDEs.  Current preference is to move to VS Code from Atom for Julia/Python/Latex and keep RStudio for R.

@@ -1,6 +1,6 @@
 ---
 title: "R"
-weight: 1
+weight: 4
 subtitle: ""
 excerpt: "R and the RStudio IDE"
 draft: false
@@ -19,7 +19,9 @@ brew install r
 ## Configuration
 .Renviron (store API keys here) and .Rprofile files (R code that runs each time on startup)
 
-Best to have all packages explicitly called by `library()` at the start of each script, rather than relying on them being in Rprofile and hence losing reproducibility for other users.  The similar function `require()` returns a boolean not an error so can be useful in a try/catch style flow.
+Best to have all packages explicitly called by `library()` at the start of each script, rather than relying on them being in .Rprofile and hence losing reproducibility for other users.  The similar function `require()` returns a boolean not an error so can be useful in a try/catch style flow.
 
-## Some useful packages
+To manage a github repo as an project in R-Studio (e.g. with ```Hugo```) clone the repo **from within RStudio**, using ```New Project``` @icn-arrow-circle-right ```Version Control```
+
+## Packages
 **tidyverse**
