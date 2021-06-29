@@ -1,6 +1,6 @@
 ---
 title: "VS Code"
-weight: 2
+weight: 5
 subtitle: ""
 excerpt: "Text editor, IDE"
 ---
