@@ -1,6 +1,6 @@
 ---
 title: "VS Code"
-weight: 5
+weight: 1
 subtitle: ""
 excerpt: "Text editor, IDE"
 ---
@@ -12,7 +12,7 @@ VS Code can be downloaded from [here](https://code.visualstudio.com/)
 
 ## Extensions
 
-The extensions I use to extend functionality:
+The extensions I select to extend functionality:
 
 - julia
 - latex workshop

@@ -1,6 +1,6 @@
 ---
 title: "shell"
-weight: 3
+weight: 1
 subtitle: ""
 excerpt: "oh my zsh, iterm 2"
 ---
