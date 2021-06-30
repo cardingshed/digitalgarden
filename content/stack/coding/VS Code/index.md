@@ -8,7 +8,7 @@ Microsoft has bought GitHub, and hence also the text editor Atom. VS Code is a s
 
 ## Pre-requisites
 
-VS Code can be downloaded from [here](https://code.visualstudio.com/)
+VS Code Insiders can be downloaded from [here](https://code.visualstudio.com/insiders/) need the insiders build so the Jupyter notebook extension supports non-python kernels.
 
 ## Extensions
 
@@ -17,4 +17,7 @@ The extensions I select to extend functionality:
 - julia
 - latex workshop
 - python
+- jupyter (auto-installed with python)
+
+
 
