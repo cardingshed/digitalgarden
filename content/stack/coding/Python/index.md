@@ -7,8 +7,8 @@ excerpt: "Python and Pip"
 date: 2021-01-02
 draft: false
 ---
-
-{{< here >}}
+[XKCD]("https://xkcd.com/1987/") shows what **not** to do here: 
+![]("https://imgs.xkcd.com/comics/python_environment.png")
 
 
 ## part 2!
