@@ -3,22 +3,12 @@ title: "python"
 layout: single-series
 weight: 3
 subtitle: ""
-excerpt: "Python and Pip"
-date: 2021-01-02
+excerpt: "Image: [XKCD]("https://xkcd.com/1987/") Python Environments"
 draft: false
 ---
-[XKCD]("https://xkcd.com/1987/") shows what **not** to do here: 
-![]("https://imgs.xkcd.com/comics/python_environment.png")
+Image: [XKCD]("https://xkcd.com/1987/") shows what **not** to do, set up environments and version control carefully.
 
+## Prerequisites
 
-## part 2!
+Within VS Code environments add ```python``` to set up the development environment.
 
-### does this work?
-
----
-
-## now for some very cool things
-
-## more
-
-## get ready!
