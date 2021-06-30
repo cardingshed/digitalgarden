@@ -21,7 +21,7 @@ brew install r
 
 Best to have all packages explicitly called by `library()` at the start of each script, rather than relying on them being in .Rprofile and hence losing reproducibility for other users.  The similar function `require()` returns a boolean not an error so can be useful in a try/catch style flow.
 
-To manage a github repo as an project in R-Studio (e.g. with ```Hugo```) clone the repo **from within RStudio**, using ```New Project``` @icn-arrow-circle-right ```Version Control```
+To manage a github repo as an project in R-Studio (e.g. with ```Hugo```) clone the repo **from within RStudio**, using ```New Project``` @fa-arrow-circle-right ```Version Control```
 
 ## Packages
 **tidyverse**
