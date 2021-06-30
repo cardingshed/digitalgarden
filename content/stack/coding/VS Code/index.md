@@ -18,6 +18,6 @@ The extensions I select to extend functionality:
 - latex workshop
 - python
 - jupyter (auto-installed with python)
-
+- github pull requests and issues
 
 
