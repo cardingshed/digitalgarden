@@ -1,5 +1,11 @@
-# digitalgarden
-https://garden.deeprich.net
-Personal collection of works-in-progress (some only in outline).
+# Personal Website 
+Welcome to the [garden subdomain](https://garden.deeprich.net) repo.
 
-Motivation: perhaps html might be a more natural format to help human memory than a RDBMS? 
+Overview of [personal website](https://www.deeprich.net) structure and which repos to copy/fork: 
+
+Naked domain:
+- [main site](https://github.com/deeprich/deeprich.github.io.git) built with Minimal Mistakes theme + Jekyll + Github pages.
+
+Subdomains: 
+- [linear models](https://github.com/deeprich/linearmodels.git) built with hugo xmin theme + Blogdown + Netlify 
+- [garden](https://github.com/deeprich/digitalgarden.git) built with hugo apero theme + Blogdown + Netlify
